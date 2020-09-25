@@ -5,7 +5,7 @@ published: true
 
 # [](#header-1) SLEMANIUM - PART 1
 
-New cryptocurrency – Readercoin
+New cryptocurrency – Slemanium
 
 Ini adalah projek yang saya buat untuk memahami konsep blockchain serta penerapanya dalam cryptocurrency. Project ini bernama SLEMANIUM ie. Sleman-ium. Saya menggunakan codebase dari bitcoin yang kemudian saya modifikasi.<br/><br/>
 
