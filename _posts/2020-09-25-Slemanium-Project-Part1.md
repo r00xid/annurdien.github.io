@@ -56,8 +56,8 @@ $ git push -f origin master
 In slemanium directory run
 
 ```console
-$ find . -exec rename 's/bitcoin/readercoin/' {} ";"
-$ find . -exec rename 's/btc/rdc/' {} ";"
+$ find . -exec rename 's/bitcoin/slemanium/' {} ";"
+$ find . -exec rename 's/btc/sln/' {} ";"
 ```
 Note : If you encounter error with rename, install it first
 
